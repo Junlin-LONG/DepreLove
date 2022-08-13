@@ -1,8 +1,11 @@
 # DepreLove
-2019 CIGA GAMEJAM Chengdu
+- 2019 CIGA GAMEJAM Chengdu
 
-Contributions:
-- Game design, scene: Junlin Long, Hanzhi Shi
-- Programming: Zhilong Jia
+- For the theme of this Gamejam, check *Theme.JPG*
 
-WindowsNoEditor/Deprelove.exe
+- Contributions:
+  - Game design, scene: Junlin Long, Hanzhi Shi
+  - Programming: Zhilong Jia
+
+- Play this game, go
+*WindowsNoEditor/Deprelove.exe*
