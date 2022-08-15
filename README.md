@@ -7,5 +7,7 @@
   - Game design, scene: Junlin Long, Hanzhi Shi
   - Programming: Zhilong Jia
 
-- Play this game, go
+- To play this game, go
 *WindowsNoEditor/Deprelove.exe*
+
+- Developed by Unreal Engine 4
