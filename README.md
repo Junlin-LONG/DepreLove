@@ -1,7 +1,7 @@
 # DepreLove
 - 2019 CIGA GAMEJAM Chengdu
 
-- For the theme of this Gamejam, check *Theme.JPG*
+- The theme of this Gamejam is a picture, go <https://github.com/Junlin-LONG/DepreLove/blob/main/Theme.JPG>.
 
 - Contributions:
   - Game design, scene: Junlin Long, Hanzhi Shi
